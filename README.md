@@ -5,7 +5,8 @@ Requires at least: 3.2
 Tested up to: 3.6-alpha  
 Stable tag: 1.3
 
-Twenty Thirteen is a most special theme.
+Twenty Thirteen is a most special theme.  truly
+
 
 == Description ==
 
